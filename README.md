@@ -5,4 +5,5 @@
 I'm backend developer, my interests is OOP, DDD, Software Architecture, Java, Spring. etc..
 
 - 🌱 I’m currently learning Computer Science, OOP, Data Structure & Algorithms.
-- 💬 Ask me about something -> msolo021015@gmail.com
+- :rose: Sometimes Blogging -> medium.com/msolo021015
+- 💬 If you're curious about me, please contact me by email. -> msolo021015@gmail.com
