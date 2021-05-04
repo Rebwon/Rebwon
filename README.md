@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm backend developer, my interests is OOP, DDD, Software Architecture, Java, Spring. etc..
+I'm backend developer, my interests is OOP, DDD, Software Architecture, Kotlin, Java, Spring. etc..
 
 - 🌱 I’m currently learning Computer Science, OOP, Data Structure & Algorithms.
 - :rose: Sometimes Blogging -> medium.com/msolo021015
